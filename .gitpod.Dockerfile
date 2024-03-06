@@ -1,1 +1,1 @@
-F
+FROM gitpod/workspace-flutter:latest
